@@ -27,12 +27,12 @@ const siteProps = {
   name: "Mohammed Yasin Zuhayr",
   title: "Web Developer",
   email: "myasinzuhayr@gmail.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "yasin",
+  gitHub: "",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
